@@ -1,0 +1,7 @@
+p {line-height:30px; 
+   text-indent:1cm; 
+   margin-left:5%;
+   margin-right:5%} /* 行距30px，缩进1cm，左右留空 */
+#lineh5 p{line-height:normal; text-indent:0} /* 作文题目不要缩进 */
+#notextindent h3{text-indent:0;} /* 标题行距 */
+#greyline {color:grey; margin-left: 5%; margin-right: 5%} /* 灰色线 */
