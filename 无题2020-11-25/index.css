@@ -1,0 +1,6 @@
+p {line-height:30px; 
+    text-indent:1cm; 
+    margin-left:5%;
+    margin-right:5%}
+#lineh5 p{line-height:normal; text-indent:0} /* 作文题目不要缩进 */
+#notextindent h3{text-indent:0;} /* 标题行距 */
