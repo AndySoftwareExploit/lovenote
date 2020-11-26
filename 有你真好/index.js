@@ -17,4 +17,15 @@ function getnowtime(){
 var nowtime = new Date();
 document.getElementById("time").innerHTML=nowtime;
 }
-
+/*
+options 下拉列表选择——开始
+*/
+// function qizhong() {
+//     window.location.href='../有你真好/index.html'
+// }
+// function wuti1125() {
+//     window.location.href='../无题2020-11-25/index.html'
+// }
+/*
+options 下拉列表选择——结束
+*/
